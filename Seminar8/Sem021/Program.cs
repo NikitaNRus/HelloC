@@ -171,8 +171,6 @@ for (int i=0; i<newArray.GetLength(0);i++)
 return newArray;
 }
 
-
-
 FillArray(array);
 PrintArray(array);
 Console.WriteLine();
